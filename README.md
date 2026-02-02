@@ -1,3 +1,6 @@
+![Header](<img width="1156" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/a5c43afa-0fdb-43dd-a8a5-7be32e5f57c6" />
+)
+
 ## Hi there 
 Tamaghna Sarkar
 B.Tech Student | Jalpaiguri, India 
