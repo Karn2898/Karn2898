@@ -1,4 +1,4 @@
-![Header](C:\Users\DELL\Downloads\github-header-banner.png)
+![Header](C:\Users\DELL\Downloads\github-header-banner.jpg)
 
 ## Hi there 
 Tamaghna Sarkar
