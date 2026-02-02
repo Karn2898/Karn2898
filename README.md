@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 
+##I am Tamaghna Sarkar , B.Tech stdent from Jalpaiguri , India . passionate about Machine Learning and Artificial Intelligence , specializing in NLP and MLops . Building Language Models , NLP systems , RAG systems .
+
+I'm looking for Internship and job opportunities .
+
 
 <!--
 **Karn2898/Karn2898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
