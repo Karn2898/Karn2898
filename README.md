@@ -10,7 +10,10 @@ Passionate about Machine Learning & AI, specializing in NLP and MLOps. Building 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,scikit-learn,spacy,HuggingFace,colab,vscode,pycharm,aws,azure,git,github,mlflow)](https://skillicons.dev)
 
 
-
+🤗 **Hugging Face** & **PyTorch** enthusiast specializing in **NLP** & **MLOps**  
+🔥 Building **Language Models**, **NLP systems**, **RAG frameworks**  
+💻 **MLflow**, **AWS**, **seq2seq** architectures  
+🚀 **Open to Internships & Jobs** in ML/NLP/MLOps!
 
 
 
