@@ -3,9 +3,8 @@ I am Tamaghna Sarkar , B.Tech stdent from Jalpaiguri , India . passionate about 
 
 I'm looking for Internship and job opportunities .
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com/YOUR_USERNAME/YOUR_USERNAME)
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,transformers,mlflow,aws,huggingface)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,scikit_learn,spacy,huggingface,colab,vscode,pycharm,aws,azure,git,github,mlflow)](https://skillicons.dev)
+
 
 
 
