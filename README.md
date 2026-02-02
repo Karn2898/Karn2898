@@ -11,15 +11,17 @@ Passionate about Machine Learning & AI, specializing in NLP and MLOps. Building 
  Open to Internships & Job Opportunities in ML, NLP ,MLops , AI . 
 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,scikit-learn,spacy,HuggingFace,colab,vscode,pycharm,aws,azure,git,github,mlflow)](https://skillicons.dev)
-## Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[GPT-2 Text Gen](https://github.com/Karn2898/YOUR_GPT2_REPO)** | Fine-tuned GPT-2 that actually generates decent text | 🤗 Hugging Face, PyTorch |
-| **[QA Chatbot](https://github.com/Karn2898/YOUR_QA_REPO)** | Seq2seq system that gets questions right (mostly) | PyTorch, Transformers |
-| **[RAG Demo](https://github.com/Karn2898/YOUR_RAG_REPO)** | Pulls docs + generates answers, pretty cool combo | LangChain, FAISS |
-| **[MLflow Pipeline](https://github.com/Karn2898/YOUR_MLOPS_REPO)** | Tracks experiments, deploys to AWS (still debugging) | MLflow, AWS, Docker |
-| **[NLP Pipeline](https://github.com/Karn2898/YOUR_NLP_REPO)** | spaCy + scikit-learn on messy real-world text | spaCy, scikit-learn |
+| **[MultiLang NLP](https://github.com/Karn2898/MultiLang_NLP_Sysytem)** | Multilingual RAG pipeline across 15 languages with MLflow tracking | MLflow, XNLI, Streamlit |
+| **[RAG Language Model](https://github.com/Karn2898/Language_model_RAG)** | GPT-2 style RAG system with document retrieval | PyTorch, Transformers |
+| **[Dialogue System](https://github.com/Karn2898/Dialogue_sytem)** | Seq2seq chatbot that handles real conversations | PyTorch |
+| **[MLOps Learning](https://github.com/Karn2898/MLops)** | Docker + full ML production pipeline setup | Docker, MLflow, AWS |
+
+---
+
 
 
 
