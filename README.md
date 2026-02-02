@@ -6,14 +6,26 @@ Passionate about Machine Learning & AI, specializing in NLP and MLOps. Building 
 
  Open to Internships & Job Opportunities in ML, NLP ,MLops , AI . 
 
+
+##  GitHub Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Karn2898&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karn2898&layout=compact)](https://github.com/Karn2898/Karn2898)
  
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,scikit-learn,spacy,HuggingFace,colab,vscode,pycharm,aws,azure,git,github,mlflow)](https://skillicons.dev)
 
+## Featured Projects
 
-🤗 **Hugging Face** & **PyTorch** enthusiast specializing in **NLP** & **MLOps**  
-🔥 Building **Language Models**, **NLP systems**, **RAG frameworks**  
-💻 **MLflow**, **AWS**, **seq2seq** architectures  
-🚀 **Open to Internships & Jobs** in ML/NLP/MLOps!
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[GPT-2 Language Model](https://github.com/Karn2898/YOUR_GPT2_REPO)** | Custom fine-tuned GPT-2 for text generation & completion | 🤗 Hugging Face, PyTorch |
+| **[Seq2Seq QA System](https://github.com/Karn2898/YOUR_QA_REPO)** | Dialogue system with question-answering using encoder-decoder | PyTorch, Transformers |
+| **[RAG Pipeline](https://github.com/Karn2898/YOUR_RAG_REPO)** | Retrieval-Augmented Generation for knowledge-based QA | LangChain, FAISS, Hugging Face |
+| **[MLflow MLOps Pipeline](https://github.com/Karn2898/YOUR_MLOPS_REPO)** | Experiment tracking + AWS deployment workflow | MLflow, AWS, Docker |
+| **[NLP Processing Pipeline](https://github.com/Karn2898/YOUR_NLP_REPO)** | End-to-end spaCy + scikit-learn text classification | spaCy, scikit-learn, Python |
+
+---
+
+[![Repo](https://github.com/Karn2898/YOUR_REPO/badge.svg)](https://github.com/Karn2898/YOUR_REPO)
 
 
 
