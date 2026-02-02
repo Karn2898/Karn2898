@@ -7,10 +7,10 @@ Passionate about Machine Learning & AI, specializing in NLP and MLOps. Building 
  Open to Internships & Job Opportunities in ML, NLP ,MLops , AI . 
 
 
-##  GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Karn2898&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Karn2898&show_icons=true&theme=radical&top_langs=false)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karn2898&layout=compact)](https://github.com/Karn2898/Karn2898)
- 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,scikit-learn,spacy,HuggingFace,colab,vscode,pycharm,aws,azure,git,github,mlflow)](https://skillicons.dev)
 
 ## Featured Projects
