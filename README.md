@@ -16,17 +16,28 @@ Passionate about Machine Learning & AI, specializing in NLP and MLOps. Building 
 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,scikit-learn,spacy,HuggingFace,colab,vscode,pycharm,aws,azure,git,github,mlflow)](https://skillicons.dev)
 
-## Featured Projects
+## 🔥 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[GPT-2 Language Model](https://github.com/Karn2898/YOUR_GPT2_REPO)** | Custom fine-tuned GPT-2 for text generation & completion | 🤗 Hugging Face, PyTorch |
-| **[Seq2Seq QA System](https://github.com/Karn2898/YOUR_QA_REPO)** | Dialogue system with question-answering using encoder-decoder | PyTorch, Transformers |
-| **[RAG Pipeline](https://github.com/Karn2898/YOUR_RAG_REPO)** | Retrieval-Augmented Generation for knowledge-based QA | LangChain, FAISS, Hugging Face |
-| **[MLflow MLOps Pipeline](https://github.com/Karn2898/YOUR_MLOPS_REPO)** | Experiment tracking + AWS deployment workflow | MLflow, AWS, Docker |
-| **[NLP Processing Pipeline](https://github.com/Karn2898/YOUR_NLP_REPO)** | End-to-end spaCy + scikit-learn text classification | spaCy, scikit-learn, Python |
+[![GPT-2](https://github-readme-stats.vercel.app/api/pin/?username=Karn2898&repo=YOUR_GPT2_REPO&theme=radical)](https://github.com/Karn2898/YOUR_GPT2_REPO)
+**GPT-2 Language Model** - Fine-tuned my own GPT-2 for text generation  
+*PyTorch + 🤗 Hugging Face*
 
----
+[![QA Bot](https://github-readme-stats.vercel.app/api/pin/?username=Karn2898&repo=YOUR_QA_REPO&theme=radical)](https://github.com/Karn2898/YOUR_QA_REPO)  
+**Seq2Seq QA System** - Chatbot that actually understands questions  
+*Encoder-decoder in PyTorch*
+
+[![RAG Demo](https://github-readme-stats.vercel.app/api/pin/?username=Karn2898&repo=YOUR_RAG_REPO&theme=radical)](https://github.com/Karn2898/YOUR_RAG_REPO)  
+**RAG Pipeline** - Knowledge QA with document retrieval  
+*LangChain + FAISS*
+
+**MLflow + AWS** - My production ML pipeline (WIP)  
+*Experiment tracking → Docker → Cloud*
+
+**NLP Pipeline** - spaCy text classification end-to-end  
+*Real messy datasets, clean results*
+
+
+
 
 ##  Current Focus
 -  Learning: Advanced RAG, MLflow deployment , AI Agents
