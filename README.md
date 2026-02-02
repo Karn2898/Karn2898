@@ -1,8 +1,10 @@
 ## Hi there 
-I am Tamaghna Sarkar , B.Tech stdent from Jalpaiguri , India . passionate about Machine Learning and Artificial Intelligence , specializing in NLP and MLops . Building Language Models , NLP systems , RAG systems .
+Tamaghna Sarkar
+B.Tech Student | Jalpaiguri, India 
 
-I'm looking for Internship and job opportunities .
+Passionate about Machine Learning & AI, specializing in NLP and MLOps. Building Language Models, NLP systems, and RAG frameworks with PyTorch, Hugging Face, and AWS.
 
+ Open to Internships & Job Opportunities in ML, NLP ,MLops , AI . 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,scikit_learn,spacy,huggingface,colab,vscode,pycharm,aws,azure,git,github,mlflow)](https://skillicons.dev)
 
 
