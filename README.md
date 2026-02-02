@@ -10,18 +10,42 @@ Passionate about Machine Learning & AI, specializing in NLP and MLOps. Building 
 
  Open to Internships & Job Opportunities in ML, NLP ,MLops , AI . 
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,vscode,pycharm,aws,azure,git,github,docker,kubernetes,linux,postgres,mongodb,redis,fastapi,flask,nginx)](https://skillicons.dev)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Langchain](https://img.shields.io/badge/Langchain-121212?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+##  Tech Stack
+
+###  Machine Learning & Deep Learning
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn)](https://skillicons.dev)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+### NLP & LLMs
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
+![Langchain](https://img.shields.io/badge/Langchain-121212?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+
+###  MLOps & Deployment
+[![MLOps](https://skillicons.dev/icons?i=docker,kubernetes,linux,fastapi,flask,nginx)](https://skillicons.dev)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=000)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+###  Cloud & Infrastructure
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,git,github)](https://skillicons.dev)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+###  Databases & Vector Stores
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis)](https://skillicons.dev)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+
+###  Development Tools
+[![Tools](https://skillicons.dev/icons?i=vscode,pycharm)](https://skillicons.dev)
+
+
 
 ##  Featured Projects
 
