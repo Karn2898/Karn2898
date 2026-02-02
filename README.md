@@ -7,10 +7,7 @@ Passionate about Machine Learning & AI, specializing in NLP and MLOps. Building 
  Open to Internships & Job Opportunities in ML, NLP ,MLops , AI . 
 
 
-## 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Karn2898&show_icons=true&theme=radical&top_langs=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karn2898&layout=compact)](https://github.com/Karn2898/Karn2898)
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,scikit-learn,spacy,HuggingFace,colab,vscode,pycharm,aws,azure,git,github,mlflow)](https://skillicons.dev)
 
 ## Featured Projects
@@ -25,7 +22,15 @@ Passionate about Machine Learning & AI, specializing in NLP and MLOps. Building 
 
 ---
 
-[![Repo](https://github.com/Karn2898/YOUR_REPO/badge.svg)](https://github.com/Karn2898/YOUR_REPO)
+##  Current Focus
+-  Learning: Advanced RAG, MLflow deployment , AI Agents
+-  Work: ML Intern at CLoudAILabs
+
+ Reach me: tamaghna51@gmail.com  
+ LinkedIn: www.linkedin.com/in/tamaghna-sarkar-20a9a5295  
+ X : https://x.com/Tamaghna1193603
+
+
 
 
 
