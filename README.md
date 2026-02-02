@@ -10,7 +10,7 @@ Passionate about Machine Learning & AI, specializing in NLP and MLOps. Building 
 
  Open to Internships & Job Opportunities in ML, NLP ,MLops , AI . 
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,scikit-learn,spacy,HuggingFace,colab,vscode,pycharm,aws,azure,git,github,mlflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,huggingface,colab,vscode,pycharm,aws,azure,git,github,mlflow)](https://skillicons.dev)
 ##  Featured Projects
 
 | Project | Description | Tech Stack |
