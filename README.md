@@ -10,6 +10,8 @@ Passionate about Machine Learning & AI, specializing in NLP and MLOps. Building 
 
  Open to Internships & Job Opportunities in ML, NLP ,MLops , AI . 
 
+ [![My Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,vscode,pycharm,aws,azure,git,github,docker,postgres)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,vscode,pycharm,aws,azure,git,github,docker)](https://skillicons.dev)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
