@@ -56,6 +56,7 @@ Passionate about Machine Learning & AI, specializing in NLP and MLOps. Building 
 | **[RAG Language Model](https://github.com/Karn2898/Language_model_RAG)** | GPT-2 style RAG system with document retrieval | PyTorch, Transformers |
 | **[Dialogue System](https://github.com/Karn2898/Dialogue_sytem)** | Seq2seq chatbot that handles real conversations | PyTorch |
 | **[MLOps Learning](https://github.com/Karn2898/MLops)** | Docker + full ML production pipeline setup | Docker, MLflow, AWS |
+| **[Multimodal LLM](https://github.com/Karn2898/Multimodal_LLM)** | FastAPI service for multimodal (text, image & audio) conversations powered by Google Gemini | FastAPI, Gemini, Python |
 
 ---
 
