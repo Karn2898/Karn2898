@@ -8,9 +8,9 @@
 Tamaghna Sarkar
 B.Tech Student | Jalpaiguri, India 
 
-Passionate about Machine Learning & AI, specializing in NLP and MLOps. Building Language Models, NLP systems, and RAG frameworks with PyTorch, Hugging Face, and AWS.
+Passionate about Machine Learning & AI, building multi-agent systems , Gen AI apps , can ship products .
 
- Open to Internships & Job Opportunities in ML, NLP ,MLops , AI . 
+ Open to Internships & Job Opportunities in ML & AI . 
 
 ##  Tech Stack
 
