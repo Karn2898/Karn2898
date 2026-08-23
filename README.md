@@ -132,20 +132,7 @@ status: "shipping agents, training models, breaking builds, fixing them again"
 
 <div align="center">
 
-### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karn2898&theme=tokyo-night&hide_border=true&bg_color=0d0026&area=true" width="100%"/>
-
-</div>
-
-<br/>
-
-<!--
-  🐍 Animated contribution snake — powered by GitHub Actions (Platane/snk).
-  One-time setup: add .github/workflows/snake.yml to this repo to generate
-  snake.svg on a schedule and push it to the `output` branch.
-  Docs: https://github.com/Platane/snk
--->
 <div align="center">
 
 ### 🐍 Contribution Snake
