@@ -12,9 +12,14 @@
 
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=Karn2898&label=Profile%20Views&color=00f0ff&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Karn2898?label=Followers&style=for-the-badge&color=1a0033" />
+
 </div>
 
 <br/>
+
+## ⚡ System Boot Log
 
 ```yaml
 role: B.Tech ECE student & developer — Alipurduar Government Engineering and Management College (2023-2027)
@@ -32,60 +37,78 @@ status: "shipping agents, training models, breaking builds, fixing them again"
 
 </div>
 
-<br/>
+<table align="center">
+<tr>
+<td width="50%" valign="top" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="90"/>
+</td>
+<td width="50%" valign="top" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="90"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,100:dd2476&height=55&text=VERTICO&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+**🧩 Vertico — Full-Stack AI Coding Agent**
+[GitHub →](https://github.com/Karn2898/vertico)
+- LangGraph orchestration + Gemini LLM for refactor & tool-calling
+- FastAPI + SQLModel + PostgreSQL + pgvector for session, chat, diff & RAG routes
+- VS Code / JetBrains extensions · CI/CD on a self-hosted Oracle Cloud runner
 
-<a href="https://github.com/Karn2898/vertico">
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+AI+Coding+Agent;LangGraph+%2B+Gemini+%2B+RAG+routes&font=Fira+Code&center=true&width=500&height=30&color=FF512F&vCenter=true&size=15&pause=900"/>
-</a>
+</td>
+<td width="50%" valign="top">
 
-- LangGraph orchestration + Gemini LLM for refactor & tool-calling workflows
-- FastAPI + SQLModel + PostgreSQL + pgvector powering session, chat, diff & RAG routes
-- VS Code / JetBrains extensions (React, Tailwind, shadcn/ui)
-- CI/CD via GitHub Actions on a self-hosted Oracle Cloud runner
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=55&text=AURORAQ&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
-
-<a href="https://github.com/Karn2898/Multimodal_LLM">
-<img src="https://readme-typing-svg.demolab.com/?lines=Multimodal+LLM+App+%E2%80%94+text%2C+image%2C+audio;Live+demo%3A+auroraq.onrender.com&font=Fira+Code&center=true&width=500&height=30&color=00C6FF&vCenter=true&size=15&pause=900"/>
-</a>
-
+**🌌 AuroraQ — Multimodal LLM App**
+[GitHub →](https://github.com/Karn2898/Multimodal_LLM) · [Demo →](https://auroraq.onrender.com/)
 - Text, image & audio input across multi-turn conversations
 - Bearer-token auth, rate limiting, file-size validation
 - FastAPI, Google Gemini, SlowAPI, SQLite, Streamlit
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="90"/>
+</td>
+<td width="50%" valign="top" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="90"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=55&text=RAG+MEDICAL+CHATBOT&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+**🩺 RAG Medical Chatbot**
+[GitHub →](https://github.com/Karn2898)
+- +40–60% response relevance over baseline QA
+- Embedding-retrieval-generation via Docker on Render/AWS, <1.5s latency
 
-<a href="https://github.com/Karn2898">
-<img src="https://readme-typing-svg.demolab.com/?lines=%2B40%E2%80%9360%25+response+relevance+vs+baseline;%3C1.5s+latency+on+Docker+%2F+Render+%2F+AWS&font=Fira+Code&center=true&width=500&height=30&color=38EF7D&vCenter=true&size=15&pause=900"/>
-</a>
+</td>
+<td width="50%" valign="top">
 
-- RAG-based chatbot, +40–60% response relevance over baseline QA
-- Embedding-retrieval-generation pipeline via Docker on Render/AWS, <1.5s latency
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:4a00e0&height=55&text=RAG-ENHANCED+LANGUAGE+MODEL&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
-
-<a href="https://github.com/Karn2898/Language_model_RAG">
-<img src="https://readme-typing-svg.demolab.com/?lines=Vector+DB+%2B+fine-tuned+LLM+retrieval;Edge-deployable%2C+low-latency+inference&font=Fira+Code&center=true&width=500&height=30&color=8E2DE2&vCenter=true&size=15&pause=900"/>
-</a>
-
+**📚 RAG-Enhanced Language Model**
+[GitHub →](https://github.com/Karn2898/Language_model_RAG)
 - Vector DB + fine-tuned LLM retrieval-augmented generation
-- Optimized for low-latency, edge-deployable inference on Google Colab
+- Optimized for low-latency, edge-deployable inference on Colab
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/218266069-da299265-d22b-41f5-99f1-cf8bfa951c42.gif" width="90"/>
+</td>
+<td width="50%"></td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ee0979,100:ff6a00&height=55&text=OPEN+SOURCE+%E2%80%94+extra-org%2Fextra&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+**🔧 Open Source — extra-org/extra**
+[PR #36 →](https://github.com/extra-org/extra/pull/36)
+- Merged a self-contained OpenAI-default test-fixture system
 
-<a href="https://github.com/extra-org/extra/pull/36">
-<img src="https://readme-typing-svg.demolab.com/?lines=Merged+PR+%2336%3A+OpenAI-default+test-fixture+system&font=Fira+Code&center=true&width=500&height=30&color=FF6A00&vCenter=true&size=15&pause=900"/>
-</a>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -119,12 +142,12 @@ status: "shipping agents, training models, breaking builds, fixing them again"
 
 ### 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Karn2898&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0026" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karn2898&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0026" />
+<img height="130" src="https://github-readme-stats.vercel.app/api?username=Karn2898&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0026" />
+<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karn2898&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0026" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karn2898&theme=tokyonight&hide_border=true&background=0d0026" />
+<img height="70" src="https://github-readme-streak-stats.herokuapp.com/?user=Karn2898&theme=tokyonight&hide_border=true&background=0d0026" />
 
 </div>
 
@@ -132,7 +155,20 @@ status: "shipping agents, training models, breaking builds, fixing them again"
 
 <div align="center">
 
+### 📈 Contribution Graph
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karn2898&theme=tokyo-night&hide_border=true&bg_color=0d0026&area=true" width="100%"/>
+
+</div>
+
+<br/>
+
+<!--
+  🐍 Animated contribution snake — powered by GitHub Actions (Platane/snk).
+  One-time setup: add .github/workflows/snake.yml to this repo to generate
+  snake.svg on a schedule and push it to the `output` branch.
+  Docs: https://github.com/Platane/snk
+-->
 <div align="center">
 
 ### 🐍 Contribution Snake
