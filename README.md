@@ -12,9 +12,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Karn2898&label=Profile%20Views&color=00f0ff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Karn2898?label=Followers&style=for-the-badge&color=1a0033" />
-
 </div>
 
 <br/>
