@@ -17,7 +17,6 @@
 
 <br/>
 
-## ⚡ System Boot Log
 
 ```yaml
 role: B.Tech ECE student & developer — Alipurduar Government Engineering and Management College (2023-2027)
@@ -31,7 +30,7 @@ status: "shipping agents, training models, breaking builds, fixing them again"
 
 <div align="center">
 
-### 🤖 What I'm Building
+### What I'm Building
 
 </div>
 
@@ -114,7 +113,7 @@ status: "shipping agents, training models, breaking builds, fixing them again"
 
 <div align="center">
 
-### 🛠️ Stack
+###  Stack
 
 <code>python · c · c++ · typescript · fastapi · langgraph · langchain · huggingface · pytorch · streamlit · react · mlflow · fastmcp · postgresql · pgvector · sqlite · aws · oracle cloud · docker · celery · redis · git · vscode · pycharm · linux · jupyter · postman · colab</code>
 
@@ -140,8 +139,8 @@ status: "shipping agents, training models, breaking builds, fixing them again"
 
 ### 📊 GitHub Stats
 
-<img height="130" src="https://github-readme-stats.vercel.app/api?username=Karn2898&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0026" />
-<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karn2898&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0026" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Karn2898&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0026" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karn2898&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0026" />
 
 <br/>
 
@@ -153,9 +152,9 @@ status: "shipping agents, training models, breaking builds, fixing them again"
 
 <div align="center">
 
-### 📈 Contribution Graph
+###  Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karn2898&theme=tokyo-night&hide_border=true&bg_color=0d0026&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karn2898&theme=tokyo-night&hide_border=true&bg_color=0d0026&area=true" height="150"/>
 
 </div>
 
