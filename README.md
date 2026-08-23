@@ -1,98 +1,269 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there%2C+Tamaghna+here!+%F0%9F%91%8B;AI+Engineer;ML+%26+NLP+Stacks;MLOps+%26+AWS;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20There,%20I'm%20Tom%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20Agents%20%7C%20MLOps%20%7C%20Backend%20Engineering&descAlignY=58&descSize=18" width="100%"/>
 
+<a href="https://github.com/Karn2898">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+AI+Coding+Agent+Builder;LangGraph+%7C+FastAPI+%7C+PostgreSQL+%2B+pgvector;MLOps+%26+ML+Engineer+in+the+making;Always+shipping%2C+always+learning&font=Fira%20Code&center=true&width=580&height=45&color=00C6FF&vCenter=true&size=22&pause=1200"/>
+</a>
 
+<br/>
 
-## Hi there 
-Tamaghna Sarkar
-B.Tech Student | Jalpaiguri, India 
+<img src="https://komarev.com/ghpvc/?username=Karn2898&label=Profile%20Views&color=00c6ff&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Karn2898?label=Followers&style=for-the-badge&color=2c5364" />
 
-Passionate about Machine Learning & AI, building multi-agent systems , Gen AI apps , can ship products .
+</div>
 
- Open to Internships & Job Opportunities in ML & AI . 
+<br/>
 
-##  Tech Stack
- 
-###  Machine Learning & Deep Learning
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn)](https://skillicons.dev)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+## ⚡ About Me
 
-### NLP & LLMs
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
-![Langchain](https://img.shields.io/badge/Langchain-121212?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+```yaml
+role: Student & Developer — Undergraduate Engineering
+focus: [MLOps, AI Agent Development, Full-Stack Backend Engineering]
+goal: ML Engineer / MLOps Engineer / AI-Backend Engineer
+current_build: "Full-stack AI coding agent — LangGraph orchestration + RAG"
+fun_fact: "My terminal is basically my second home 🖥️"
+```
 
-###  MLOps & Deployment
-[![MLOps](https://skillicons.dev/icons?i=docker,kubernetes,linux,fastapi,flask,nginx)](https://skillicons.dev)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=000)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<br/>
 
-###  Cloud & Infrastructure
-[![Cloud](https://skillicons.dev/icons?i=aws,azure,git,github)](https://skillicons.dev)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+<div align="center">
 
-###  Databases & Vector Stores
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis)](https://skillicons.dev)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+### 🧠 What I'm building
 
-###  Development Tools
-[![Tools](https://skillicons.dev/icons?i=vscode,pycharm)](https://skillicons.dev)
+</div>
 
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
+**🤖 AI Coding Agent**
+Full-stack, end-to-end agent built across multiple sessions.
+- LangGraph orchestration (refactor & tool-calling graphs, Gemini LLM)
+- FastAPI backend — session / chat / diff routes
+- SQLModel + PostgreSQL + pgvector for persistence & RAG
+- AST-based Python chunking with Gemini embeddings
+- Celery + Redis for async execution, Docker sandbox for safe code exec
+- VS Code + JetBrains IDE extension (React / Tailwind / shadcn-ui)
 
-##  Featured Projects
+</td>
+<td width="50%" valign="top">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[MultiLang NLP](https://github.com/Karn2898/MultiLang_NLP_Sysytem)** | Multilingual RAG pipeline across 15 languages with MLflow tracking | MLflow, XNLI, Streamlit |
-| **[RAG Language Model](https://github.com/Karn2898/Language_model_RAG)** | GPT-2 style RAG system with document retrieval | PyTorch, Transformers |
-| **[Dialogue System](https://github.com/Karn2898/Dialogue_sytem)** | Seq2seq chatbot that handles real conversations | PyTorch |
-| **[MLOps Learning](https://github.com/Karn2898/MLops)** | Docker + full ML production pipeline setup | Docker, MLflow, AWS |
-| **[Multimodal LLM](https://github.com/Karn2898/Multimodal_LLM)** | AuroraQ , a FastAPI service for multimodal (text, image & audio) conversations powered by Google Gemini | FastAPI, Gemini, Python |
+**🔬 MLOps Pipeline**
+NYC taxi trip-duration prediction, built as part of an MLOps curriculum.
+- Reproducible training & inference pipeline
+- Experiment tracking and versioning
+- CI/CD via GitHub Actions + a self-hosted GitLab runner on Oracle Cloud (ARM VM)
 
----
+</td>
+</tr>
+</table>
 
+<br/>
 
+<div align="center">
 
+### 🛠️ Tech Stack
 
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,redis,react,ts,vscode,git,github,linux,tailwind&theme=dark" />
 
-##  Current Focus
--  Learning: Advanced RAG, MLflow deployment , AI Agents
--  Work: ML Intern at CLoudAILabs
+<br/><br/>
 
- Reach me: tamaghna51@gmail.com  
- LinkedIn: www.linkedin.com/in/tamaghna-sarkar-20a9a5295  
- X : https://x.com/Tamaghna1193603
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![SQLModel](https://img.shields.io/badge/SQLModel-DB2FF?style=for-the-badge&logo=sqlite&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
+</div>
 
+<br/>
 
+<div align="center">
 
+### 📊 GitHub Stats
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Karn2898&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karn2898&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
+<br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karn2898&theme=tokyonight&hide_border=true&background=0d1117" />
 
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karn2898&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%"/>
+
+</div>
+
+<br/>
 
 <!--
-**Karn2898/Karn2898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  🐍 Animated contribution snake — powered by GitHub Actions.
+  Setup (one-time):
+  1. Create .github/workflows/snake.yml in this repo with the official
+     Platane/snk action (generates snake.svg on a schedule).
+  2. It will output to the `output` branch — reference that raw SVG below.
+  Docs: https://github.com/Platane/snk
 -->
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Karn2898/Karn2898/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🔗 Connect
+
+<a href="https://github.com/Karn2898"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div><div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20There,%20I'm%20Tom%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20Agents%20%7C%20MLOps%20%7C%20Backend%20Engineering&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://github.com/Karn2898">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+AI+Coding+Agent+Builder;LangGraph+%7C+FastAPI+%7C+PostgreSQL+%2B+pgvector;MLOps+%26+ML+Engineer+in+the+making;Always+shipping%2C+always+learning&font=Fira%20Code&center=true&width=580&height=45&color=00C6FF&vCenter=true&size=22&pause=1200"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Karn2898&label=Profile%20Views&color=00c6ff&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Karn2898?label=Followers&style=for-the-badge&color=2c5364" />
+
+</div>
+
+<br/>
+
+## ⚡ About Me
+
+```yaml
+role: Student & Developer — Undergraduate Engineering
+focus: [MLOps, AI Agent Development, Full-Stack Backend Engineering]
+goal: ML Engineer / MLOps Engineer / AI-Backend Engineer
+current_build: "Full-stack AI coding agent — LangGraph orchestration + RAG"
+fun_fact: "My terminal is basically my second home 🖥️"
+```
+
+<br/>
+
+<div align="center">
+
+### 🧠 What I'm building
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**🤖 AI Coding Agent**
+Full-stack, end-to-end agent built across multiple sessions.
+- LangGraph orchestration (refactor & tool-calling graphs, Gemini LLM)
+- FastAPI backend — session / chat / diff routes
+- SQLModel + PostgreSQL + pgvector for persistence & RAG
+- AST-based Python chunking with Gemini embeddings
+- Celery + Redis for async execution, Docker sandbox for safe code exec
+- VS Code + JetBrains IDE extension (React / Tailwind / shadcn-ui)
+
+</td>
+<td width="50%" valign="top">
+
+**🔬 MLOps Pipeline**
+NYC taxi trip-duration prediction, built as part of an MLOps curriculum.
+- Reproducible training & inference pipeline
+- Experiment tracking and versioning
+- CI/CD via GitHub Actions + a self-hosted GitLab runner on Oracle Cloud (ARM VM)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,redis,react,ts,vscode,git,github,linux,tailwind&theme=dark" />
+
+<br/><br/>
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![SQLModel](https://img.shields.io/badge/SQLModel-DB2FF?style=for-the-badge&logo=sqlite&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Karn2898&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karn2898&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karn2898&theme=tokyonight&hide_border=true&background=0d1117" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karn2898&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%"/>
+
+</div>
+
+<br/>
+
+<!--
+  🐍 Animated contribution snake — powered by GitHub Actions.
+  Setup (one-time):
+  1. Create .github/workflows/snake.yml in this repo with the official
+     Platane/snk action (generates snake.svg on a schedule).
+  2. It will output to the `output` branch — reference that raw SVG below.
+  Docs: https://github.com/Platane/snk
+-->
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Karn2898/Karn2898/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🔗 Connect
+
+<a href="https://github.com/Karn2898"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
