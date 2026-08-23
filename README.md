@@ -12,6 +12,9 @@
 
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=Karn2898&label=Profile%20Views&color=00f0ff&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Karn2898?label=Followers&style=for-the-badge&color=1a0033" />
+
 </div>
 
 <br/>
@@ -34,81 +37,72 @@ status: "shipping agents, training models, breaking builds, fixing them again"
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-**🧩 Vertico — Full-Stack AI Coding Agent**
-[GitHub →](https://github.com/Karn2898/vertico)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,100:dd2476&height=55&text=VERTICO&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+
+<a href="https://github.com/Karn2898/vertico">
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+AI+Coding+Agent;LangGraph+%2B+Gemini+%2B+RAG+routes&font=Fira+Code&center=true&width=500&height=30&color=FF512F&vCenter=true&size=15&pause=900"/>
+</a>
+
 - LangGraph orchestration + Gemini LLM for refactor & tool-calling workflows
 - FastAPI + SQLModel + PostgreSQL + pgvector powering session, chat, diff & RAG routes
 - VS Code / JetBrains extensions (React, Tailwind, shadcn/ui)
 - CI/CD via GitHub Actions on a self-hosted Oracle Cloud runner
 
-**🌌 AuroraQ — Multimodal LLM App**
-[GitHub →](https://github.com/Karn2898/Multimodal_LLM) · [Live Demo →](https://auroraq.onrender.com/)
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=55&text=AURORAQ&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+
+<a href="https://github.com/Karn2898/Multimodal_LLM">
+<img src="https://readme-typing-svg.demolab.com/?lines=Multimodal+LLM+App+%E2%80%94+text%2C+image%2C+audio;Live+demo%3A+auroraq.onrender.com&font=Fira+Code&center=true&width=500&height=30&color=00C6FF&vCenter=true&size=15&pause=900"/>
+</a>
+
 - Text, image & audio input across multi-turn conversations
 - Bearer-token auth, rate limiting, file-size validation
 - FastAPI, Google Gemini, SlowAPI, SQLite, Streamlit
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-**🩺 RAG Medical Chatbot**
-[GitHub →](https://github.com/Karn2898)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=55&text=RAG+MEDICAL+CHATBOT&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+
+<a href="https://github.com/Karn2898">
+<img src="https://readme-typing-svg.demolab.com/?lines=%2B40%E2%80%9360%25+response+relevance+vs+baseline;%3C1.5s+latency+on+Docker+%2F+Render+%2F+AWS&font=Fira+Code&center=true&width=500&height=30&color=38EF7D&vCenter=true&size=15&pause=900"/>
+</a>
+
 - RAG-based chatbot, +40–60% response relevance over baseline QA
 - Embedding-retrieval-generation pipeline via Docker on Render/AWS, <1.5s latency
 
-**📚 RAG-Enhanced Language Model**
-[GitHub →](https://github.com/Karn2898/Language_model_RAG)
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:4a00e0&height=55&text=RAG-ENHANCED+LANGUAGE+MODEL&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+
+<a href="https://github.com/Karn2898/Language_model_RAG">
+<img src="https://readme-typing-svg.demolab.com/?lines=Vector+DB+%2B+fine-tuned+LLM+retrieval;Edge-deployable%2C+low-latency+inference&font=Fira+Code&center=true&width=500&height=30&color=8E2DE2&vCenter=true&size=15&pause=900"/>
+</a>
+
 - Vector DB + fine-tuned LLM retrieval-augmented generation
 - Optimized for low-latency, edge-deployable inference on Google Colab
 
-**🔧 Open Source — extra-org/extra**
-[PR #36 →](https://github.com/extra-org/extra/pull/36)
-- Merged a self-contained OpenAI-default test-fixture system
+<br/>
 
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ee0979,100:ff6a00&height=55&text=OPEN+SOURCE+%E2%80%94+extra-org%2Fextra&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+
+<a href="https://github.com/extra-org/extra/pull/36">
+<img src="https://readme-typing-svg.demolab.com/?lines=Merged+PR+%2336%3A+OpenAI-default+test-fixture+system&font=Fira+Code&center=true&width=500&height=30&color=FF6A00&vCenter=true&size=15&pause=900"/>
+</a>
+
+<div align="center">
 
 <br/>
 
 <div align="center">
 
-### 🛠️ Tech Stack
+### 🛠️ Stack
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,ts&theme=dark" />
+<code>python · c · c++ · typescript · fastapi · langgraph · langchain · huggingface · pytorch · streamlit · react · mlflow · fastmcp · postgresql · pgvector · sqlite · aws · oracle cloud · docker · celery · redis · git · vscode · pycharm · linux · jupyter · postman · colab</code>
 
-**Frameworks & Libraries**
-<br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![FastMCP](https://img.shields.io/badge/FastMCP-6E56CF?style=for-the-badge&logo=lightning&logoColor=white)
-
-**Databases**
-<br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Deployment & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,redis,git,github,vscode,pycharm,linux&theme=dark" />
-<br/>
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=python&logoColor=3776AB" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=c&logoColor=A8B9CC" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=cplusplus&logoColor=00599C" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=typescript&logoColor=3178C6" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=fastapi&logoColor=009688" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=langchain&logoColor=1C3C3C" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=huggingface&logoColor=FFD21E" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=streamlit&logoColor=FF4B4B" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=react&logoColor=61DAFB" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=mlflow&logoColor=0194E2" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=postgresql&logoColor=4169E1" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=sqlite&logoColor=07405E" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=amazonaws&logoColor=FF9900" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=oracle&logoColor=F80000" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=docker&logoColor=2496ED" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=celery&logoColor=37814A" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=redis&logoColor=DC382D" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=git&logoColor=F05032" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=pycharm&logoColor=21D789" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=linux&logoColor=FCC624" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=jupyter&logoColor=F37626" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=postman&logoColor=FF6C37" height="24"/><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=googlecolab&logoColor=F9AB00" height="24"/>
 
 </div>
 
