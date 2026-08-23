@@ -16,8 +16,6 @@
 
 <br/>
 
-## ⚡ System Boot Log
-
 ```yaml
 role: B.Tech ECE student & developer — Alipurduar Government Engineering and Management College (2023-2027)
 focus: [AI & ML Engineering, MLOps, AI-Backend Engineering]
