@@ -133,30 +133,8 @@ status: "shipping agents, training models, breaking builds, fixing them again"
 
 </div>
 
-<br/>
 
-<div align="center">
 
-### 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Karn2898&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0026" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karn2898&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0026" />
-
-<br/>
-
-<img height="70" src="https://github-readme-streak-stats.herokuapp.com/?user=Karn2898&theme=tokyonight&hide_border=true&background=0d0026" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-###  Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karn2898&theme=tokyo-night&hide_border=true&bg_color=0d0026&area=true" height="150"/>
-
-</div>
 
 <br/>
 
