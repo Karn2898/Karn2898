@@ -134,8 +134,6 @@ status: "shipping agents, training models, breaking builds, fixing them again"
 </div>
 
 
-
-
 <br/>
 
 <!--
